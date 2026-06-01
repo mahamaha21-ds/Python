@@ -306,6 +306,6 @@ Collection of key-value pairs.
 
 ---
 
-# Interview One-Line Answer
+# One-Line Answer
 
 List is ordered and mutable. Tuple is ordered and immutable. Set stores unique unordered values. Dictionary stores data as key-value pairs and allows values to be accessed using keys.
