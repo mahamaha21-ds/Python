@@ -55,10 +55,10 @@ The order may change when displayed.
 
 | Type       | Symbol      | Position Maintained | Can Modify | Duplicate Values      |
 | ---------- | ----------- | ------------------- | ---------- | --------------------- |
-| List       | []          | Yes                 | Yes        | Yes                   |
-| Tuple      | ()          | Yes                 | No         | Yes                   |
-| Set        | {}          | No                  | Yes        | No                    |
-| Dictionary | {key:value} | Yes                 | Yes        | Keys: No, Values: Yes |
+| List       | [ ]          | Yes                 | Yes        | Yes                   |
+| Tuple      | ( )          | Yes                 | No         | Yes                   |
+| Set        | { }          | No                  | Yes        | No                    |
+| Dictionary | { key:value } | Yes                 | Yes        | Keys: No, Values: Yes |
 
 ---
 
